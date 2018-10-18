@@ -1,0 +1,15 @@
+Package: rOstluft.data
+Title: Airquality data from zuerich for 2010-2014
+Version: 1.0.0.000
+Authors@R: c(
+  person("Thomas", "von Allmen", email = "thomas.vonallmen@zuerich.ch", role = c("aut", "cre")),
+  person("Umwelt- und Gesundheitsschutz Zürich", role = c("cph")))
+Description: This package contains air quality data from three stations for the years 2010 - 2014.
+  The data is used for examples and test in the package rOstluft.
+Depends: R (>= 3.4.0)
+License: CC0 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/Ostluft/rOstluft.data
+BugReports: https://github.com/Ostluft/rOstluft.data/issues
+RoxygenNote: 6.1.0

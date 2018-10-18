@@ -1,0 +1,46 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+<img src="man/figures/logo.png" align="right" />
+
+# rOstluft.data 
+
+This Package contains air quality data from the measurement sites
+Zuerich Stampfenbachstrasse, Zuerich Schimmelstrasse and Zuerich
+Rosengartenstrasse for the years 2010 until 2014. The time resolution
+is 30 minutes.
+
+The goal for rOstluft.data is to provide data in a raw format for examples 
+and test of the package rOstluft.
+
+## Installation
+
+You can install rOstluft.data from github with:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("Ostluft/rOstluft.data")
+```
+
+## Example
+
+The following code shows how to obtain the path to the csv files.
+
+```{r example}
+system.file("extdata", "Zch_Stampfenbachstrasse_2010-2014.csv",
+     package = "rOstluft.data", mustWork = TRUE)
+
+list.files(system.file("extdata", package = "rOstluft.data"))
+```
+
+
