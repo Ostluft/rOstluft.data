@@ -43,4 +43,10 @@ system.file("extdata", "Zch_Stampfenbachstrasse_2010-2014.csv",
 list.files(system.file("extdata", package = "rOstluft.data"))
 ```
 
+## Sources
+
+* [Ostluft](https://www.ostluft.ch)
+* [ETHZ](http://www.iac.ethz.ch/the-institute/weather-stations.html)
+* [ERA-Interim](https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era-interim)
+
 
