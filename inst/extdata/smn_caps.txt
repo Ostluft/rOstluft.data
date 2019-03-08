@@ -1,9 +1,0 @@
- 
-
-stn    time           wkcap1d0  wkcap2d0  wkcap3d0  wkmowkd0  wkwtg0d0  wkwtg1d0  wkwtg2d0  wkwtg3d0  wkwtp1d0  wkwtp2d0  wkwtp3d0
-RHW    20180101              2        11        21         1         1         1         1         1         1         9         9
-RHW    20180102              1         1        10         3         3         3         3         3         3        11        11
-RHW    20180103              7        14        24         1         1         1         1        17         1         1         1
-RHW    20180104              7        14        24         3         3         3        11        11         1         9         9
-RHW    20180105              7        14        24         1         1         1         9         9         1         9         9
-
