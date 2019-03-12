@@ -1,39 +1,30 @@
----
-output: github_document
-encoding: "UTF-8"
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-
 <img src="man/figures/logo.png" align="right" />
 
-# rOstluft.data 
+rOstluft.data
+=============
 
-This Package contains air quality data from the measurement sites
-Zuerich Stampfenbachstrasse, Zuerich Schimmelstrasse and Zuerich
-Rosengartenstrasse for the years 2010 until 2014. The time resolution
-is 30 minutes.
+This Package contains air quality data from the measurement sites Zuerich Stampfenbachstrasse, Zuerich Schimmelstrasse and Zuerich Rosengartenstrasse for the years 2010 until 2014. The time resolution is 30 minutes.
 
-The goal for rOstluft.data is to provide data in a raw format for examples 
-and test of the package rOstluft.
+The goal for rOstluft.data is to provide data in a raw format for examples and test of the package rOstluft.
 
-## Installation
+Installation
+------------
 
 You can install rOstluft.data from github with:
 
-
-```r
+``` r
 # install.packages("devtools")
 devtools::install_github("Ostluft/rOstluft.data")
 ```
 
-## Example
+Example
+-------
 
 The following code shows how to obtain the path to the csv files.
 
-
-```r
+``` r
 system.file("extdata", "Zch_Stampfenbachstrasse_2010-2014.csv",
      package = "rOstluft.data", mustWork = TRUE)
 #> [1] "C:/Users/vot/Documents/R/win-library/3.5/rOstluft.data/extdata/Zch_Stampfenbachstrasse_2010-2014.csv"
@@ -51,20 +42,21 @@ list.files(system.file("extdata", package = "rOstluft.data"))
 #> [10] "meta_smn.rds"                              
 #> [11] "smn.txt"                                   
 #> [12] "smn_multi.txt"                             
-#> [13] "Zch_Rosengartenstrasse_2010-2014.csv"      
-#> [14] "Zch_Schimmelstrasse_2010-2014.csv"         
-#> [15] "Zch_Stampfenbachstrasse_2010-2014.csv"     
-#> [16] "Zch_Stampfenbachstrasse_d1_2013_Jan.csv"   
-#> [17] "Zch_Stampfenbachstrasse_h1_2013_Jan.csv"   
-#> [18] "Zch_Stampfenbachstrasse_min30_2013_Jan.csv"
-#> [19] "Zch_Stampfenbachstrasse_y1_2010-2014.csv"  
-#> [20] "ZH_EraInterim.rds"
+#> [13] "smn_unit.txt"                              
+#> [14] "smn_VQHA80.txt"                            
+#> [15] "Zch_Rosengartenstrasse_2010-2014.csv"      
+#> [16] "Zch_Schimmelstrasse_2010-2014.csv"         
+#> [17] "Zch_Stampfenbachstrasse_2010-2014.csv"     
+#> [18] "Zch_Stampfenbachstrasse_d1_2013_Jan.csv"   
+#> [19] "Zch_Stampfenbachstrasse_h1_2013_Jan.csv"   
+#> [20] "Zch_Stampfenbachstrasse_min30_2013_Jan.csv"
+#> [21] "Zch_Stampfenbachstrasse_y1_2010-2014.csv"  
+#> [22] "ZH_EraInterim.rds"
 ```
 
-## Sources
+Sources
+-------
 
-* [Ostluft](https://www.ostluft.ch)
-* [ETHZ](http://www.iac.ethz.ch/the-institute/weather-stations.html)
-* [ERA-Interim](https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era-interim)
-
-
+-   [Ostluft](https://www.ostluft.ch)
+-   [ETHZ](http://www.iac.ethz.ch/the-institute/weather-stations.html)
+-   [ERA-Interim](https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era-interim)

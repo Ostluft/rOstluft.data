@@ -41,7 +41,8 @@ prepare_release <- function() {
     pkgdown::build_site()
 
     # update readme
-    knitr::knit("README.Rmd")
+    rmarkdown::render("README.Rmd", "github_document")
+    fs::file_delete("README.html")
   }
 
 
