@@ -35,23 +35,24 @@ list.files(system.file("extdata", package = "rOstluft.data"))
 #>  [3] "2017_ZH-Kaserne-hysplit.rds"               
 #>  [4] "2018_SG-BP-hysplit.rds"                    
 #>  [5] "2018_ZH-Kaserne-hysplit.rds"               
-#>  [6] "IAC-Met-HBerg_2012-06-20.dat"              
-#>  [7] "IAC-Met_2010-12-02.dat"                    
-#>  [8] "IAC-Met_2010-12-03.dat"                    
-#>  [9] "IAC-Met_edited.dat"                        
-#> [10] "meta_smn.rds"                              
-#> [11] "smn.txt"                                   
-#> [12] "smn_multi.txt"                             
-#> [13] "smn_unit.txt"                              
-#> [14] "smn_VQHA80.txt"                            
-#> [15] "Zch_Rosengartenstrasse_2010-2014.csv"      
-#> [16] "Zch_Schimmelstrasse_2010-2014.csv"         
-#> [17] "Zch_Stampfenbachstrasse_2010-2014.csv"     
-#> [18] "Zch_Stampfenbachstrasse_d1_2013_Jan.csv"   
-#> [19] "Zch_Stampfenbachstrasse_h1_2013_Jan.csv"   
-#> [20] "Zch_Stampfenbachstrasse_min30_2013_Jan.csv"
-#> [21] "Zch_Stampfenbachstrasse_y1_2010-2014.csv"  
-#> [22] "ZH_EraInterim.rds"
+#>  [6] "AIRMO_CO_min30_2018.dat"                   
+#>  [7] "IAC-Met-HBerg_2012-06-20.dat"              
+#>  [8] "IAC-Met_2010-12-02.dat"                    
+#>  [9] "IAC-Met_2010-12-03.dat"                    
+#> [10] "IAC-Met_edited.dat"                        
+#> [11] "meta_smn.rds"                              
+#> [12] "smn.txt"                                   
+#> [13] "smn_multi.txt"                             
+#> [14] "smn_unit.txt"                              
+#> [15] "smn_VQHA80.txt"                            
+#> [16] "Zch_Rosengartenstrasse_2010-2014.csv"      
+#> [17] "Zch_Schimmelstrasse_2010-2014.csv"         
+#> [18] "Zch_Stampfenbachstrasse_2010-2014.csv"     
+#> [19] "Zch_Stampfenbachstrasse_d1_2013_Jan.csv"   
+#> [20] "Zch_Stampfenbachstrasse_h1_2013_Jan.csv"   
+#> [21] "Zch_Stampfenbachstrasse_min30_2013_Jan.csv"
+#> [22] "Zch_Stampfenbachstrasse_y1_2010-2014.csv"  
+#> [23] "ZH_EraInterim.rds"
 ```
 
 Sources
@@ -60,3 +61,5 @@ Sources
 -   [Ostluft](https://www.ostluft.ch)
 -   [ETHZ](http://www.iac.ethz.ch/the-institute/weather-stations.html)
 -   [ERA-Interim](https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era-interim)
+-   [MeteoSchweiz](https://www.meteoschweiz.admin.ch)
+-   [HYSPLIT](https://www.arl.noaa.gov/hysplit/hysplit/)

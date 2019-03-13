@@ -49,5 +49,7 @@ list.files(system.file("extdata", package = "rOstluft.data"))
 * [Ostluft](https://www.ostluft.ch)
 * [ETHZ](http://www.iac.ethz.ch/the-institute/weather-stations.html)
 * [ERA-Interim](https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era-interim)
+* [MeteoSchweiz](https://www.meteoschweiz.admin.ch)
+* [HYSPLIT](https://www.arl.noaa.gov/hysplit/hysplit/)
 
 
