@@ -1,0 +1,11 @@
+;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse
+;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse
+;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet
+;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet
+;CO;Hr;NO;NO2;NOx;O3;p;PM10;PM2.5;PN;SO2;StrGlo;T
+;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle 
+;Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert)
+;mg/m3;%Hr;µg/m3;µg/m3;ppb;µg/m3;hPa;µg/m3;µg/m3;1/cm3;µg/m3;W/m2;°C
+;m1;m1;m1;m1;m1;m1;m1;m1;m1;m1;m1;m1;m1
+Startzeit;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet
+01.01.2017 00:00;0.399495317;80.52550942;24.19403114;45.63401759;43.26080831;23.34980842;971.6032527;30.35354928;;15665.52755;1.819698737;33.19343724;-1.411571351

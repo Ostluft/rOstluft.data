@@ -37,6 +37,7 @@ prepare_release <- function() {
   )
 
   if (choice == 2) {
+    devtools::install(quick = TRUE, reload = FALSE, dependencies = FALSE)
     pkgdown::clean_site()
     pkgdown::build_site()
 

@@ -49,10 +49,15 @@ list.files(system.file("extdata", package = "rOstluft.data"))
 #> [17] "Zch_Schimmelstrasse_2010-2014.csv"         
 #> [18] "Zch_Stampfenbachstrasse_2010-2014.csv"     
 #> [19] "Zch_Stampfenbachstrasse_d1_2013_Jan.csv"   
-#> [20] "Zch_Stampfenbachstrasse_h1_2013_Jan.csv"   
-#> [21] "Zch_Stampfenbachstrasse_min30_2013_Jan.csv"
-#> [22] "Zch_Stampfenbachstrasse_y1_2010-2014.csv"  
-#> [23] "ZH_EraInterim.rds"
+#> [20] "Zch_Stampfenbachstrasse_d1_2017.csv"       
+#> [21] "Zch_Stampfenbachstrasse_h1_2013_Jan.csv"   
+#> [22] "Zch_Stampfenbachstrasse_h1_2017.csv"       
+#> [23] "Zch_Stampfenbachstrasse_m1_2017.csv"       
+#> [24] "Zch_Stampfenbachstrasse_min30_2013_Jan.csv"
+#> [25] "Zch_Stampfenbachstrasse_min30_2017.csv"    
+#> [26] "Zch_Stampfenbachstrasse_y1_2010-2014.csv"  
+#> [27] "Zch_Stampfenbachstrasse_y1_2017.csv"       
+#> [28] "ZH_EraInterim.rds"
 ```
 
 Sources

@@ -1,0 +1,11 @@
+;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse;Zch_Stampfenbachstrasse
+;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse;Zürich Stampfenbachstrasse
+;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet
+;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet;Airmet
+;CO;Hr;NO;NO2;NOx;O3;p;PM10;PM2.5;RainDur;SO2;StrGlo;T;WD;WVv
+;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle ;Alle 
+;Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Summe);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Mittelwert);Vertikale Verdichtung (Vektorielle Windmittelung(Richtung));Vertikale Verdichtung (Vektorielle Windmittelung(Betrag))
+;mg/m3;%Hr;µg/m3;µg/m3;ppb;µg/m3;hPa;µg/m3;µg/m3;min;µg/m3;W/m2;°C;°;m/s
+;h1;h1;h1;h1;h1;h1;h1;h1;h1;h1;h1;h1;h1;h1;h1
+Startzeit;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet;Berechnet
+01.01.2017 00:00;0.363155629;87.412;9.422032941;37.70941155;27.2735;1.447482146;977.215;105.8784;;0;3.232133989;0.032389;-1.6455;292.0527182;1.36167926
