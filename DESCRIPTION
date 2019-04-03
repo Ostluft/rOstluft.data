@@ -1,6 +1,6 @@
 Package: rOstluft.data
 Title: Airquality data from zuerich for 2010-2014
-Version: 1.8.0
+Version: 1.8.1
 Authors@R: c(
   person("Thomas", "von Allmen", email = "thomas.vonallmen@zuerich.ch", role = c("aut", "cre")),
   person("Jörg", "Sintermann",role = c("aut")),

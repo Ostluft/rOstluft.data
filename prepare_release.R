@@ -42,7 +42,7 @@ prepare_release <- function() {
     pkgdown::build_site()
 
     # update readme
-    rmarkdown::render("README.Rmd", "github_document")
+    rmarkdown::render("README.Rmd", "github_document", encoding = "UTF-8")
     fs::file_delete("README.html")
   }
 
