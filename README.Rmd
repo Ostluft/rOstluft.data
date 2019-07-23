@@ -41,6 +41,10 @@ The following code shows how to obtain the path to the csv files.
 system.file("extdata", "Zch_Stampfenbachstrasse_2010-2014.csv",
      package = "rOstluft.data", mustWork = TRUE)
 
+# helper function
+rOstluft.data::f("Zch_Stampfenbachstrasse_2010-2014.csv")
+
+# all files
 list.files(system.file("extdata", package = "rOstluft.data"))
 ```
 

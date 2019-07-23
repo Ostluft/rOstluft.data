@@ -17,3 +17,24 @@
 #'  list.files(system.file("extdata", package = "rOstluft.data"))
 #'
 NULL
+
+
+
+#' returns path to file
+#'
+#' Wrapper around [base::system.file()] to simplify generating file names
+#'
+#' @param fn file name
+#'
+#' @return path to file
+#' @export
+#'
+#' @examples
+#' path_to_file <- f("Zch_Stampfenbachstrasse_2010-2014.csv")
+#'
+#' # is the same as
+#' path_to_file <- system.file("extdata", "Zch_Stampfenbachstrasse_2010-2014.csv",
+#'                             package = "rOstluft.data", mustWork = TRUE)
+f <- function(fn) {
+  system.file("extdata", fn, package = "rOstluft.data", mustWork = TRUE)
+}

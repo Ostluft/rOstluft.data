@@ -29,8 +29,13 @@ The following code shows how to obtain the path to the csv files.
 ``` r
 system.file("extdata", "Zch_Stampfenbachstrasse_2010-2014.csv",
      package = "rOstluft.data", mustWork = TRUE)
-#> [1] "C:/Users/vot/Documents/R/win-library/3.6/rOstluft.data/extdata/Zch_Stampfenbachstrasse_2010-2014.csv"
+#> [1] "C:/var/rOstluft.data/inst/extdata/Zch_Stampfenbachstrasse_2010-2014.csv"
 
+# helper function
+rOstluft.data::f("Zch_Stampfenbachstrasse_2010-2014.csv")
+#> [1] "C:/var/rOstluft.data/inst/extdata/Zch_Stampfenbachstrasse_2010-2014.csv"
+
+# all files
 list.files(system.file("extdata", package = "rOstluft.data"))
 #>  [1] "2012_0012_forecast12_interim.nc"           
 #>  [2] "2017_SG-BP-hysplit.rds"                    
